@@ -2,8 +2,8 @@ import axios from 'axios';
 import { convertUnixToNormal, convertNormalToUnix } from 'utils/Date/convertTime';
 
 // BSC pro Api Key
-const BSCSCAN_KEY = '7UG6HX1VNW76Z8FK2A9B5FTHU9QCQM9W68';
-const USER = '0x6c42a14C3dD527e9EBCd2990371639A5a9354854';
+const BSCSCAN_KEY = '';
+const USER = '';
 
 // Axios Configuration
 const http = axios.create({
